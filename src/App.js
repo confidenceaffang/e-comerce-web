@@ -10,11 +10,6 @@ function App() {
   return (
     <div>
       <Navbar />
-      <Body1 />
-      <Analytics />
-      <Newsletter />
-      <Cards />
-      <Footer />
     </div>
   );
 }
